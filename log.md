@@ -13,8 +13,9 @@ https://github.com/wesleypatten/stoic-philosophers
 
 ### Day 1: March 5th 2025
 
-**Today's Progress**:
+**Today's Progress**: WOrked on Stoic Phiosophers website adding css and html to the pages and learning about the webpage layouts using container and div codes. I also learned a little about flexbox and block.
 
-**Thoughts:** 
+**Thoughts:** I need to work more on how to layout webpages using a combination of flexbox and css grid. I don't know anything about grid and very little about flexbox. I think soe work on the recipes odin recipes page tomorrow will help.
 
-**Link to work:** 
+**Link to work:**
+https://github.com/wesleypatten/stoic-philosophers
