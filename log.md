@@ -19,3 +19,12 @@ https://github.com/wesleypatten/stoic-philosophers
 
 **Link to work:**
 https://github.com/wesleypatten/stoic-philosophers
+
+### Day 3: March 11th 2025
+
+**Today's Progress**: Wrote, with the help of Chatgpt the html and css of a landing page for a walking tour website on the west coast of Ireland. It took an hour to get the code through prompting and it was a good first attempt at this type of page.
+
+**Thoughts:** I learned the difference between a section tag and a div tag, I also began the implementation of flex with regards to laying out the different sections and divs. It is just the beginning, I know there is much more to learn. One thing I have to be wary of is when using Chatgpt to generate css, it can be prone to use duplicate classes and ids. I had to get Copilot to rewrite that code when I noticed the header and footer had duplicate nav classes with different styles.
+
+**Link to work:** 
+https://github.com/wesleypatten/sli-grainne-mhaol
