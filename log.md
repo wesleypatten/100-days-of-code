@@ -20,6 +20,16 @@ https://github.com/wesleypatten/stoic-philosophers
 **Link to work:**
 https://github.com/wesleypatten/stoic-philosophers
 
+### Day 2: March 6th 2025
+
+**Today's Progress**: I updated all the files in the Odin Project Recipe assignment. Since this 100 day challenge is not about working through tutorials or a curriculum, I have decided to develop new projects that will go alongside the curriculum that I can add here. The first of these will be in a Repository I created a year or so ago and I will make a landing page for this project.
+
+**Thoughts:** I really want to layout the walking website in a proper manner.
+
+**Link to work:**
+https://github.com/wesleypatten/sli-grainne-mhaol
+https://github.com/wesleypatten/odin-recipes
+
 ### Day 3: March 11th 2025
 
 **Today's Progress**: Wrote, with the help of Chatgpt the html and css of a landing page for a walking tour website on the west coast of Ireland. It took an hour to get the code through prompting and it was a good first attempt at this type of page.
