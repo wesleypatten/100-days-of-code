@@ -38,3 +38,16 @@ https://github.com/wesleypatten/odin-recipes
 
 **Link to work:** 
 https://github.com/wesleypatten/sli-grainne-mhaol
+
+### Day 3: March 11th 2025
+
+**Today's Progress**: I completed a a Rosetta Stone Challenge today called FIzz Buzz. I did it as a way to refresh my use of Javascript. I used a for loop some if else if and else conditionals and created a function. I also completed the Rock Paper Scissors project on the Odin Project website. It was a game to be played in the console, I think later on in the Project I will have to create a UI for this.
+
+**Thoughts:** When you move from HTML and CSS to Javascript it is a step up in difficulty, however I am determined to push on and amke progress here. I made a error today in creating the FizzBuzz function, I forgot to retun the array and instead did a console.log before it was time.
+
+I think a good plan moving forward is to take one Rosetta Challange a day to keep my problem solving and Javascripy coding sharp. I will sit down at the end of coding for ten minutes each day to write psuedocode for the challenge and for whatever project I am working on at the time.
+
+**Link to work:** 
+https://github.com/wesleypatten/Rosetta-stone-challenges
+https://github.com/wesleypatten/odin-rock-paper-scissors
+
